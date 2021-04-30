@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='distributions_chams',
-      version='0.1',
+      version='0.2',
       description='Gaussian distributions_chams',
       packages=['distributions_chams'],
       author='Chams Rutkowski',
